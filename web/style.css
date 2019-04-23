@@ -1,0 +1,8 @@
+@import "fonts";
+@font-face {
+    font-family: Gotic;
+    src: url("/fonts/got3.ttf");
+}
+.main{
+    font-family: Gotic;
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://D:/Programs/apache-tomcat-9.0.6/lib/jsp-api.jar!/" />
+      <root url="jar://D:/Programs/apache-tomcat-9.0.6/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/Programs/apache-tomcat-9.0.6/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/Programs/apache-tomcat-9.0.6/lib/websocket-api.jar!/" />
+      <root url="jar://D:/Programs/apache-tomcat-9.0.6/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
